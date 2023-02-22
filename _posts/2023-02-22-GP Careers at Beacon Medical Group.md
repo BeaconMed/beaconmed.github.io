@@ -37,7 +37,13 @@ Mobile: 07971 249438
 
 [Email]  
 
+[facebook]  
 
-[andrew.mercer@nhs.net]: mailto:andrew.mercer@nhs.net
-[Website]: https://www.beaconmedicalgroup.nhs.uk/
-[Email]: mailto:beaconmedicalgroup@nhs.net
+[twitter]  
+
+
+[andrew.mercer@nhs.net]: mailto:andrew.mercer@nhs.net  
+[Website]: https://www.beaconmedicalgroup.nhs.uk/  
+[Email]: mailto:beaconmedicalgroup@nhs.net  
+[facebook]: https://www.facebook.com/beaconmedicalgroup/  
+[twitter]: https://twitter.com/beaconmedgroup  
