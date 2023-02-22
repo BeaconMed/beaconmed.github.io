@@ -31,10 +31,13 @@ We have GP roles available at Plympton and Ivybridge. So Please contact us to di
 Dr Andrew Mercer  
 Managing GP Partner  
 Mobile: 07971 249438
-[andrew.mercer@nhs.net]  
+[andrew.mercer@nhs.net]
+
 [Website]  
+
 [Email]  
 
-[andrew.mercer@nhs.net]: mailto:andrew.mercer@nhs.net
+
+[andrew.mercer@nhs.net]: (mailto:andrew.mercer@nhs.net)
 [Website]: https://www.beaconmedicalgroup.nhs.uk/
 [Email]: mailto:beaconmedicalgroup@nhs.net
