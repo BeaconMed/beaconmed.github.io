@@ -12,7 +12,7 @@ Beacon Medical Group is a Single Practice Primary Care Network on the edge of Da
 
 We operate across six sites across Plymouth and the South Hams. GPs have a usual site where they are based and work as a vital part of the team. In our PCN we have an extensive Multidisciplinary Team with GPs, Nurses, Paramedics, Pharmacists, Physiotherapists, Social Prescribers and Mental Health Support workers which helps make the workload sustainable.
 
-As a training practice we not only host GP Trainees but also Medical Students, Nursing Paramedics and Pharmacy Students Showing our strong focus on Education and development.
+As a training practice we not only host GP Trainees but also Medical Students, Nursing, Paramedics and Pharmacy Students. Showing our strong focus on Education and development.
 
 ## What we offer...  
 * 6 weeks Annual Leave (pro-rata)
