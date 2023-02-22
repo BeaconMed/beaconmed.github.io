@@ -28,7 +28,7 @@ We are a Training Practice so Newly Qualified GPs are welcomed!
 
 We have GP roles available at Plympton and Ivybridge. So Please contact us to discuss exciting opportunitites.  
 
-Dr Andrew Mercer
+Dr Andrew Mercer  
 Managing GP Partner  
 [andrew.mercer@nhs.net]  
 [Website]  
