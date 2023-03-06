@@ -6,6 +6,7 @@ categories:
 tags:
   - Careers
   - update
+  
 header:
   image: /beaconmed.github.io/assets/images/healthcogs.jpg
   
