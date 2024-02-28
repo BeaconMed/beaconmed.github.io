@@ -19,7 +19,7 @@ As a training practice we not only host GP Trainees but also Medical Students, N
 ## What we offer...  
 * 6 weeks Annual Leave (pro-rata)
 * 1 week Study Leave (Pro-rata)
-* Usual GP List to promot continuity
+* Usual GP List to promote continuity
 * Tier 2 Visa sponsorship
 * GP Mentor for all sessional GPs
 * Daily Team Huddles
