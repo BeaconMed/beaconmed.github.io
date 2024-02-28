@@ -7,7 +7,7 @@ tags:
   - Careers
   - update
 header:
-  image: /beaconmed.github.io/assets/images/healthcogs.jpg
+  image: /assets/images/my-awesome-post-teaser.jpg
 ---  
 ## About us  
 Beacon Medical Group is a Single Practice Primary Care Network on the edge of Dartmoor, serving 43,000 patients.
